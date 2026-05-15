@@ -39,7 +39,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   <header class="border-b border-border border-b-2 border-accent">
     <div class="max-w-wide mx-auto px-5 py-4 flex items-center justify-between flex-wrap gap-3">
       <a href="/" class="font-heading font-black uppercase tracking-wide text-accent no-underline before:content-['⚕_']">{CHANNEL.name}</a>
-      <nav class="flex gap-5"><a href="/" class="text-muted text-sm hover:text-accent">홈</a><a href="/tags/" class="text-muted text-sm hover:text-accent">분과</a><a href="/about/" class="text-muted text-sm hover:text-accent">소개</a></nav>
+      <nav class="flex gap-5"><a href="/" class="text-muted text-sm hover:text-accent">홈</a><a href="/tags/" class="text-muted text-sm hover:text-accent">분과</a><a href="/about/" class="text-muted text-sm hover:text-accent">소개</a><a href={CHANNEL.youtubeUrl} target="_blank" rel="noopener" class="text-muted text-sm hover:text-accent">유튜브</a></nav>
     </div>
   </header>
   <main class="flex-1">

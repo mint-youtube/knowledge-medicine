@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "⚕️",
   category: "교육",
   tagline: "의학 지식을 쉽게, 정확하게",
+  youtubeUrl: "https://youtube.com/channel/UCo-GSNu--ADkDuCAvpMVa_g",
   layoutId: "clinical-journal",
   isLight: true,
   tokens: {
