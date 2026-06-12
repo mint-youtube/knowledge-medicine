@@ -5,7 +5,7 @@ pubDate: 2026-05-10T09:00:00+09:00
 author: ""
 category: ""
 tags: ["손가락 꺾기", "관절염 원인", "도날드 웅거", "이그노벨상", "관절 딱소리", "손가락 관절염", "활액 기포", "관절염 예방", "손가락 꺾기 관절염", "의학 상식"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=CSHZ078E_9g"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-05-09-five-min-med-cracking-knuckles-arthritis-myth/intro_img_2.png"
 draft: false
 ---

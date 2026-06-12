@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:31:00+09:00
 author: ""
 category: ""
 tags: ["무릎통증", "관절", "뚝뚝소리", "관절염", "건강", "자기관리", "5분의학", "1퍼센트법칙"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=eP8mNUyhop4"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-05-18-knee-cracking-truth/scene-2_img_2.png"
 draft: false
 ---

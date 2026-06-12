@@ -5,7 +5,7 @@ pubDate: 2026-05-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["오젬픽 부작용", "세마글루타이드", "GLP-1 근육 감소", "위 마비", "비만 치료제", "체중 감량 부작용", "GLIMMER 연구", "오젬픽 소송", "위고비", "2026 의학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4EPAgpC6MDI"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-05-30-ozempic-weight-loss-2026-side-effects/scene-2_img_2.png"
 draft: false
 ---

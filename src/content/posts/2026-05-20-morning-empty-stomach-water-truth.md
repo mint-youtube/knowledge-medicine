@@ -5,7 +5,7 @@ pubDate: 2026-05-20T20:38:00+09:00
 author: ""
 category: ""
 tags: ["아침 공복 물", "수분 섭취", "위-대장 반사", "변비", "디톡스", "신진대사", "일본 위장학회", "Vreugdenhil"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=gUQSu4I92zM"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-05-20-morning-empty-stomach-water-truth/scene-2_img_2.png"
 draft: false
 ---

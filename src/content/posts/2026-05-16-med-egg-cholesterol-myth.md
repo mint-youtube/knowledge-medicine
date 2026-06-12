@@ -5,7 +5,7 @@ pubDate: 2026-05-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["계란 하루 몇 개", "계란 콜레스테롤 하루 제한", "하버드 계란 연구", "식이 콜레스테롤 혈중 콜레스테롤 차이", "계란 심장병 관계", "2015 미국 식이 지침 변경", "달걀 하루 섭취량", "앤셀 키스 7개국 연구", "당뇨 계란 섭취", "계란 영양 효능"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=p_m4iszALvY"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-05-16-med-egg-cholesterol-myth/intro_img_2.png"
 draft: false
 ---

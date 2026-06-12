@@ -5,7 +5,7 @@ pubDate: 2026-05-27T09:50:00+09:00
 author: ""
 category: ""
 tags: ["간헐적 단식", "시간 영양학", "서카디안 리듬", "인슐린 저항성", "초기 시간 제한 식사", "TRE", "오후 6시 금식", "체중 감량", "HOMA-IR", "2026 메타분석"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=6G5_7j4aT6s"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-05-27-circadian-fasting-meal-timing-2026/scene-2_img_2.png"
 draft: false
 ---

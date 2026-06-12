@@ -5,7 +5,7 @@ pubDate: 2026-06-11T17:39:00+09:00
 author: ""
 category: ""
 tags: ["아침식사신화", "켈로그마케팅", "아침굶기", "레나쿠퍼", "5분의학", "시간영양학", "아침식사과학", "간헐적단식아침"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=dTyYHsb1qn0"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-11-breakfast-most-important-meal-myth/scene-2_img_2.png"
 draft: false
 ---

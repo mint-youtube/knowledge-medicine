@@ -5,7 +5,7 @@ pubDate: 2026-05-11T09:00:00+09:00
 author: ""
 category: ""
 tags: ["감기 원인", "추위 감기 관계", "감기 예방법", "리노바이러스", "솔즈베리 공통감기연구소", "이와사키 교수 연구", "비강 면역력", "겨울 감기 이유", "100년 의학사", "면역 세포 반응"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=jR7Jg0yBCtw"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-05-10-med-cold-weather-immunity-myth/intro_img_2.png"
 draft: false
 ---

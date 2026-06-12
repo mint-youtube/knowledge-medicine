@@ -5,7 +5,7 @@ pubDate: 2026-06-04T09:00:00+09:00
 author: ""
 category: ""
 tags: ["8시간수면신화", "최적수면시간", "수면규칙성", "7시간수면", "5분의학", "수면부채", "보상수면", "수면과사망률"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=hPYW7gXSEEs"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-04-five-min-med-eight-hours-sleep-myth/scene-2_img_2.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-05-21T21:55:00+09:00
 author: ""
 category: ""
 tags: ["건강식품 트렌드 2026", "건기식 시장", "회복 영양제", "두뇌 영양제", "피부 영양제", "저속노화", "초개인화 영양제", "건강지능", "단백질 보충제", "한국 건강식품"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=m5z6zRv_qKk"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-05-21-muscle-trend-ends-recovery-brain-skin-2026/scene-2_img_2.png"
 draft: false
 ---

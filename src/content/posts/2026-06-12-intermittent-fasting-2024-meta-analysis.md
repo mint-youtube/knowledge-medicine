@@ -5,7 +5,7 @@ pubDate: 2026-06-12T09:00:00+09:00
 author: ""
 category: ""
 tags: ["간헐적단식효과", "IF메타분석", "16대8단식", "격일단식", "5분의학", "시간제한식이", "다이어트과학", "대사증후군"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=JISgGX19XzY"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-12-intermittent-fasting-2024-meta-analysis/scene-2_img_2.png"
 draft: false
 ---
