@@ -5,7 +5,7 @@ pubDate: 2026-06-12T20:45:00+09:00
 author: ""
 category: ""
 tags: ["장내미생물", "미주신경", "장뇌축", "마이크로바이옴정신건강", "5분의학", "사이코바이오틱스", "디스바이오시스", "우울증장내세균"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=lZjq-DaHABI"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-12-gut-microbiome-mental-health-vagus/scene-2_img_2.png"
 draft: false
 ---
