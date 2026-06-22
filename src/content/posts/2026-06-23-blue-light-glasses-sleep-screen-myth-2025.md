@@ -5,7 +5,7 @@ pubDate: 2026-06-23T09:00:00+09:00
 author: ""
 category: ""
 tags: ["블루라이트 차단 안경", "블루라이트 수면", "멜라토닌", "수면의 질", "코크란 검토", "야간 화면", "불면증", "건강 상식"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=rlPC6raBdxM"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-23-blue-light-glasses-sleep-screen-myth-2025/scene-2_img_2.png"
 draft: false
 ---
