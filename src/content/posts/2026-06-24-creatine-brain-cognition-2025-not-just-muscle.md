@@ -5,7 +5,7 @@ pubDate: 2026-06-24T09:00:00+09:00
 author: ""
 category: ""
 tags: ["크레아틴", "크레아틴 뇌", "크레아틴 인지기능", "크레아틴 기억력", "크레아틴 효과", "수면부족 영양제", "크레아틴 용량", "뇌건강 보충제", "ATP", "크레아틴 부작용"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=vx_5mOlOmRU"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-24-creatine-brain-cognition-2025-not-just-muscle/scene-2_img_2.png"
 draft: false
 ---
