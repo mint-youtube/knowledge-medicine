@@ -5,7 +5,7 @@ pubDate: 2026-06-25T09:00:00+09:00
 author: ""
 category: ""
 tags: ["저지방 식단", "포화지방", "심장병", "콜레스테롤", "불포화지방", "정제 탄수화물", "건강 식단", "지방 누명"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=MyVAeCTCsQ8"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-25-low-fat-diet-myth-40-year-reversal-2025/scene-2_img_2.png"
 draft: false
 ---
