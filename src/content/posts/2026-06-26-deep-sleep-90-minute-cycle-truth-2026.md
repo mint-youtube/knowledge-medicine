@@ -5,7 +5,7 @@ pubDate: 2026-06-26T09:00:00+09:00
 author: ""
 category: ""
 tags: ["90분 수면주기", "깊은 잠", "수면 단계", "글림프 시스템", "수면 관성", "면역 수면", "숙면 방법", "렘수면"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=wS9nd3NB7QU"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-26-deep-sleep-90-minute-cycle-truth-2026/scene-2_img_2.png"
 draft: false
 ---
