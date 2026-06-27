@@ -5,7 +5,7 @@ pubDate: 2026-06-27T16:13:00+09:00
 author: ""
 category: ""
 tags: ["콜라겐 효과", "콜라겐 흡수", "가수분해 콜라겐", "콜라겐 펩타이드", "피부 탄력", "콜라겐 먹는 법", "저분자 콜라겐", "콜라겐 비타민C"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=QYnnKILjk0k"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-27-collagen-supplement-skin-joint-myth-2026-trial/scene-2_img_2.png"
 draft: false
 ---
