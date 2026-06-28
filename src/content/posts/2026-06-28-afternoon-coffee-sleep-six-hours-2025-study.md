@@ -5,7 +5,7 @@ pubDate: 2026-06-28T19:02:00+09:00
 author: ""
 category: ""
 tags: ["오후 커피 수면", "카페인 반감기", "커피 불면증", "깊은 잠", "수면 효율", "카페인 8시간", "디카페인", "수면 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=do7vbfZhyjY"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-06-28-afternoon-coffee-sleep-six-hours-2025-study/scene-2_img_2.png"
 draft: false
 ---
