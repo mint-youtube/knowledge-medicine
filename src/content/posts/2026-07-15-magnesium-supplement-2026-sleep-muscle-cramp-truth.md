@@ -5,7 +5,7 @@ pubDate: 2026-07-15T09:00:00+09:00
 author: ""
 category: ""
 tags: ["마그네슘 효능", "마그네슘 수면", "마그네슘 근육경련", "마그네슘 부작용", "다리 경련", "불면증 영양제", "코크란 리뷰", "영양제 진실"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=iCNXQiXgtOM"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-15-magnesium-supplement-2026-sleep-muscle-cramp-truth/scene-2_img_2.png"
 draft: false
 ---
