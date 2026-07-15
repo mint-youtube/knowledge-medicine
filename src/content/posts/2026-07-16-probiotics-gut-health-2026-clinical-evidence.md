@@ -5,7 +5,7 @@ pubDate: 2026-07-16T09:00:00+09:00
 author: ""
 category: ""
 tags: ["유산균 효과", "프로바이오틱스", "장 건강", "마이크로바이옴", "장내세균", "유산균 정착", "유산균 부작용", "발효식품", "식이섬유", "과민성 장 증후군"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Zm6ZUuGvLqI"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-16-probiotics-gut-health-2026-clinical-evidence/scene-2_img_2.png"
 draft: false
 ---
