@@ -5,7 +5,7 @@ pubDate: 2026-07-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["소금 섭취", "나트륨", "혈압", "저염식", "고혈압", "제이 커브", "나트륨 권장량", "칼륨", "심혈관 위험", "저염식 부작용"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4zeBb-ODxj4"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-17-salt-intake-blood-pressure-myth-2025-cohort/scene-2_img_2.png"
 draft: false
 ---
