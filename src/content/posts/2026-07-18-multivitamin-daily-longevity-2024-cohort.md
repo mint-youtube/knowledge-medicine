@@ -5,7 +5,7 @@ pubDate: 2026-07-18T09:00:00+09:00
 author: ""
 category: ""
 tags: ["종합비타민", "멀티비타민", "종합비타민 효과", "영양제 진실", "건강수명", "비타민 부작용", "엽산", "비타민 비 12", "건강 습관", "장수 비결"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=o8lc41d6isU"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-18-multivitamin-daily-longevity-2024-cohort/scene-2_img_2.png"
 draft: false
 ---
