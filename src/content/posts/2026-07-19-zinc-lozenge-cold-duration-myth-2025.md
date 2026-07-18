@@ -5,7 +5,7 @@ pubDate: 2026-07-19T09:00:00+09:00
 author: ""
 category: ""
 tags: ["아연 감기", "아연 사탕 효과", "감기 지속시간", "아세트산 아연", "코크란 리뷰", "감기 영양제", "아연 보충제", "감기 빨리 낫는 법"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=qKPbY32prQ4"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-19-zinc-lozenge-cold-duration-myth-2025/scene-2_img_2.png"
 draft: false
 ---
