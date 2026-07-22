@@ -5,7 +5,7 @@ pubDate: 2026-07-23T09:00:00+09:00
 author: ""
 category: ""
 tags: ["알츠하이머 혈액검사", "치매 조기진단", "pTau217", "FDA 승인", "루미펄스", "베타아밀로이드", "PET 스캔", "알츠하이머 신약", "레켐비", "2026 의학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=TmxyjdFoIaA"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-23-alzheimer-blood-test-2026-diagnostic/scene-2_img_2.png"
 draft: false
 ---
