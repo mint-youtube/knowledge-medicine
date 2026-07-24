@@ -5,7 +5,7 @@ pubDate: 2026-07-24T11:34:00+09:00
 author: ""
 category: ""
 tags: ["운동 전 스트레칭", "정적 스트레칭", "동적 스트레칭", "준비운동", "스트레칭 부상 예방", "워밍업", "스트레칭 근력", "운동 상식", "부상 예방 스트레칭", "동적 준비운동"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=UUo0k7ZPb14"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-24-static-stretching-injury-prevention-myth-2026-cohort/scene-2_img_2.png"
 draft: false
 ---
