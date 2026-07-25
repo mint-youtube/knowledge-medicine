@@ -5,7 +5,7 @@ pubDate: 2026-07-26T09:00:00+09:00
 author: ""
 category: ""
 tags: ["사과식초", "사과식초 다이어트", "사과식초 효과", "체중감량", "애플사이다비니거", "사과식초 부작용", "아세트산", "식후 혈당", "다이어트 유행", "논문 철회"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=eiv_x18wyWk"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-26-apple-cider-vinegar-weight-loss-myth-2025/scene-2_img_2.png"
 draft: false
 ---
