@@ -5,7 +5,7 @@ pubDate: 2026-07-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["물 중독", "저나트륨혈증", "물 많이 마시면", "하루 물 섭취량", "수분 과다", "물 8잔 진실", "건강 상식", "나트륨 균형"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=msonRMg-Cj8"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-27-water-intoxication-contest-death-hyponatremia-2007/scene-2_img_2.png"
 draft: false
 ---
