@@ -5,7 +5,7 @@ pubDate: 2026-07-28T18:23:00+09:00
 author: ""
 category: ""
 tags: ["5초규칙", "음식위생", "세균오염", "5분의학", "러트거스연구", "식품안전", "세균전파"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=GWwC9T8FZys"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-28-five-second-rule-truth/scene-2_img_2.png"
 draft: false
 ---
