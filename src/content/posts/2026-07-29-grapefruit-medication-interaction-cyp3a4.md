@@ -5,7 +5,7 @@ pubDate: 2026-07-29T09:00:00+09:00
 author: ""
 category: ""
 tags: ["자몽 약 상호작용", "자몽 주스 부작용", "CYP3A4", "스타틴 자몽", "혈압약 자몽", "복약 주의사항", "자몽 먹으면 안되는 약", "약물 상호작용"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=P8Ttwg-IBr4"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-29-grapefruit-medication-interaction-cyp3a4/scene-2_img_2.png"
 draft: false
 ---
