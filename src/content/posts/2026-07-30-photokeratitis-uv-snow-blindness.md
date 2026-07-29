@@ -5,7 +5,7 @@ pubDate: 2026-07-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["광각막염", "설맹", "자외선 눈 화상", "각막 화상", "선글라스 자외선 차단", "백내장 예방", "눈 건강", "스키 눈부심"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=UR6H5Ng9a9M"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-30-photokeratitis-uv-snow-blindness/scene-2_img_2.png"
 draft: false
 ---
