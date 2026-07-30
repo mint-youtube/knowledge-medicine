@@ -5,7 +5,7 @@ pubDate: 2026-07-31T09:00:00+09:00
 author: ""
 category: ""
 tags: ["비타민 A 과다증", "하이퍼비타민증", "레티놀", "베타카로틴", "영양제 과다복용", "지용성 비타민", "남극 탐험 메르츠", "비타민 부작용"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Rqyoe78YQC4"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-07-31-vitamin-a-toxicity-polar-explorer/scene-2_img_2.png"
 draft: false
 ---
