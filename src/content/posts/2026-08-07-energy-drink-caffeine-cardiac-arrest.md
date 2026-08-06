@@ -5,7 +5,7 @@ pubDate: 2026-08-07T09:00:00+09:00
 author: ""
 category: ""
 tags: ["에너지드링크 부작용", "카페인 심장", "카페인 과다", "에너지드링크 카페인양", "부정맥", "카페인 안전 섭취량", "에너지드링크 위험", "운동 카페인"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=8heQYFKomd0"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-08-07-energy-drink-caffeine-cardiac-arrest/scene-2_img_2.png"
 draft: false
 ---
