@@ -5,7 +5,7 @@ pubDate: 2026-08-08T09:00:00+09:00
 author: ""
 category: ""
 tags: ["아이스티 부작용", "홍차 옥살산", "옥살산 신증", "콩팥 건강", "신장 손상", "홍차 콩팥", "옥살산 음식", "차 많이 마시면"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=IA50efDLYE8"
 heroImage: "https://assets.dailynote.blog/knowledge-medicine/2026-08-08-iced-tea-oxalate-kidney-failure/scene-2_img_2.png"
 draft: false
 ---
